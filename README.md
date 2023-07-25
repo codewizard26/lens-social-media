@@ -19,8 +19,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Steps to create a lens profile on testnet => https://bafybeiheyckcisvnc5mhwjsgikgrwdrqof3xb6fdpo755icqjtrb7xo7cu.gateway.ipfscdn.io/
 
+```
 connect your wallet to the app and you will see your account connected on the console
 
-# you will be able to follow existing lens user, visit there profile or create a new post on the app
+you will be able to follow existing lens user, visit there profile or create a new post on the app
 
-
+```
