@@ -1,7 +1,7 @@
 
 
 ## Social Media app using lens protocol 
-Live Link => https://my-p7oxncnwt-codewizard26.vercel.app/
+Live Link =>[ https://my-p7oxncnwt-codewizard26.vercel.app/](https://my-app-codewizard26.vercel.app/)
 
 # Local environment setup
 
